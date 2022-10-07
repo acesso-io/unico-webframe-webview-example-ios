@@ -11,7 +11,7 @@ import SafariServices
 
 class ViewController: UIViewController {
 
-    let url = URL(string: "https://zesty-eclair-29f27e.netlify.app/")!
+    let url = URL(string: "https://your-app-with-sdk-web.com")!
 
     override func viewDidLoad() {
         super.viewDidLoad()
